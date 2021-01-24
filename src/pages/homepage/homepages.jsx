@@ -3,7 +3,7 @@ import Directory from "./../../components/directory/directorys.jsx";
 import "./myhomepage.css";
 function Homepage(){
   return(
-    <section  className="homepage">
+    <section className="homepage">
     <Directory />
     </section>
   );
